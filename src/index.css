@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.nav-link {
+  float: left;
+  margin: 10px;
+}
+
+.banner {
+  width: 2000px;
+  height: 1000px;
+  background-image: url("http://cdn2.bigcommerce.com/n-ww20x/irn1ax/product_images/uploaded_images/kingoftokyo-3.png?t=1472676372");
+}
+
+li {
+    list-style-type: none;
+}
